@@ -1,0 +1,7 @@
+.card-main {
+  height: 100dvh;
+  width: 100dvw;
+  background-image: url('/images/bg-main-desktop.png');
+  background-position: left;
+  background-repeat: no-repeat;
+}
